@@ -1,6 +1,6 @@
 # chat_ui
 
-chat Ui for chatting Application
+Welcome to DZoneCodeEvolution For Simple Chat UI in Flutter
 
 ## Getting Started
 
