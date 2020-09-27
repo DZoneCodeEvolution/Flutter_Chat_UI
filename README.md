@@ -1,11 +1,13 @@
 # chat_ui
 
-Welcome to DZoneCodeEvolution For Simple Chat UI in Flutter
-![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/to/screen1.jpeg?raw=true "Screen 1")
-![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/to/screen2.jpeg?raw=true "Screen 2")
-![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/to/screen3.jpeg?raw=true "Screen 3")
-![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/to/screen4.jpeg?raw=true "Screen 4")
-![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/to/screen5.jpeg?raw=true "Screen 5")
+Welcome to DZoneCodeEvolution For Simple Chat UI in Flutter 
+<P>
+![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/screen1.jpeg?raw=true "Screen 1")
+![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/screen2.jpeg?raw=true "Screen 2")
+![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/screen3.jpeg?raw=true "Screen 3")
+![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/screen4.jpeg?raw=true "Screen 4")
+![Alt text](/../<Flutter_Chat_UI>/Flutter_Chat_UI/screenshort/screen5.jpeg?raw=true "Screen 5")
+  </p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
